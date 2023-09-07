@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268251035700",
+    "project_id": "fir-admin-app-77252",
+    "storage_bucket": "fir-admin-app-77252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268251035700:android:9b03600b3b91184f727261",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268251035700-9p2hbf7h2ai3814oou4v43rincqo2361.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXdw6953RNpnRn3JOEkh1BsdvEsREdUO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268251035700-9p2hbf7h2ai3814oou4v43rincqo2361.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
